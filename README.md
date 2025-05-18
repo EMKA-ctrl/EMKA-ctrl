@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marc Sebastià
 
-I'm a telecommunication engingeering student and developer,I consider myself an active person and eager to learn.
+I'm a telecommunication engingeer and developer,I consider myself an active person and eager to learn.
 
 I've been using coding languages since the beginning of my studies and it is definitely the part that motivates and makes me the most of these.
 Among the  languages I'm most comfortable with are Python, C++, React.js, ReactNative, HTML, CSS, and JavaScript.
